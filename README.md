@@ -236,7 +236,7 @@ cap to collide with.
 | `run_eval --offline` | 12/12 (2 report SKIP — they need `--live`) |
 | `npm run build` | clean, no type errors |
 | Supabase security linter | 0 warnings; 1 INFO (intentional deny-all RLS) |
-| `run_eval --live` | 12/12 on 2026-10-03. Automated rubric 3.75 / 3.75. See `docs/EVAL_RESULTS.md` |
+| `run_eval --live` | 12/12 PASSED. Automated rubric 3.75 / 3.75. See `docs/EVAL_RESULTS.md` |
 
 ### End to end by hand
 
